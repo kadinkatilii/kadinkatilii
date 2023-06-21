@@ -1,7 +1,3 @@
-<!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
-<div align="center">
-    <a href="https://discord.com/users/755754781032710254" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/755754781032710254"></a>
-</div>
 
 ```python
 ┌──(aqu@root)-[~/]
